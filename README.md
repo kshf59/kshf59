@@ -12,12 +12,12 @@
 	<img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-
+<div>
 <p align="left">
 🚀 
 Here, Github is my personal learning space for studying the implementation of deep learning algorithms from research papers. 👩‍🚀
 </p>
-
+</div>
 
 
 
