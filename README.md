@@ -3,6 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SangKim%20Github&fontSize=90" />
 
+<h1 align="left"> 🛠 Tech Stack 🛠 </h1>
 <div>
 	<img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 	<img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -12,7 +13,7 @@
 </div>
 
 
-<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
+<!--
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
